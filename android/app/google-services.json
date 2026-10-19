@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "646060876286",
+    "project_id": "as-sabji-mart-new",
+    "storage_bucket": "as-sabji-mart-new.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646060876286:android:cf9d315498b9ecb4c720af",
+        "android_client_info": {
+          "package_name": "com.assabjimart.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPnXu59ptHSbWHH54dQjoNwNu2NXhP_cY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
